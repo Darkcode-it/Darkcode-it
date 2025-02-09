@@ -1,3 +1,4 @@
+
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true" >
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
@@ -8,6 +9,7 @@
   <a href="https://github.com/Darkcode-it" target="_blank"  align="center">
   </a></a>
 <div align="center">
+  <div>قابل توجه دوستان ایرانی تمامی پروژه هایم بر روی هاست گیت هستن و انلاین میتونی ببینی نیازی به کلن و ران کردن ندارن اول بببین اگه بدرد بخور بود برات کلن کن مبارک و پروژه های پایتون هم میتونی در ترمینال لینوکس و ترموکس ازشون استفاده کنی</div>
     <i style="font-size: 10px;">
      Hi 👋, I'm Musa Rahd ☝🏻 && A passionate frontend developer
      <br>
